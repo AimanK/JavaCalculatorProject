@@ -24,7 +24,7 @@ public static void main(String[] args) {
     while (game != false)
     {
 
-    // Grabs the operator needed from the user (this line only  is used to grab a char)
+    // Grabs the operator needed from the user (this line is only used to grab a char datatype)
     operator = scan.next().charAt(0); 
 
     switch (operator)
